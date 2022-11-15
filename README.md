@@ -31,7 +31,7 @@ You have some choices:
 
 You will also need the following programs:
 1. A program that lets you retrieve all of the entries and view them (for server admin maintenance)
-2. A program that will read a text file for new entries to the database, and enter them if they do not already exist.  Remember to search for your entry first before you add it to ensure that there are no duplicates
+2. A program that will read a text file for new entries to the database, and enter them if they do not already exist.  Remember to search for your entry first before you add it to ensure that there are no duplicates.  hint: You can use the .split() method to split up the contents of a file into a list and iterate through the list to retrieve your entries
 3. The flask server program
 
 Extra:
